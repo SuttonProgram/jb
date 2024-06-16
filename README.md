@@ -1,1 +1,3 @@
 The primary procedural distinction between `professional` and recreational diving is that the recreational diver is responsible primarily for their own actions and safety but may voluntarily accept limited responsibility for dive buddies, whereas the professional diver is part of a team of people with extensive responsibilities and obligations to each other and usually to an employer or client, and these responsibilities and obligations are formally defined in contracts, legislation, regulations, operations manuals, standing orders and compulsory or voluntary codes of practice. In many cases a statutory national occupational health and safety legislation constrains their activities.
+
+[readmore](https://en.wikipedia.org/wiki/Professional_diving)
